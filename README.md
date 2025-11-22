@@ -56,6 +56,7 @@
 ### 硬件连接详情
 ![引脚分配图]
 ![pin_assignment](https://github.com/user-attachments/assets/cd045b5c-3e33-472d-9b70-aed747887f30)
+注意数码管2位选0.2-0.3，图片写错了。
 
 ### 物料清单
 ![物料清单]![bom](https://github.com/user-attachments/assets/56eb08c4-0df3-4885-b3b4-d7c4bd9226b8)
