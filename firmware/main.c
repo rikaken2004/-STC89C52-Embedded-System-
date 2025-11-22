@@ -10,8 +10,8 @@
 
 // #define BASIC_LED_BLINK       // Basic LED blinking
 // #define DIGITAL_TUBE_TEST     // Digital tube test  
-//#define COMPLETE_SYSTEM         // Complete counting system
- #define HARDWARE_TESTS        // Hardware tests
+#define COMPLETE_SYSTEM         // Complete counting system
+// #define HARDWARE_TESTS        // Hardware tests
 
 // ==================== HARDWARE DEFINITIONS ====================
 #ifdef COMPLETE_SYSTEM
