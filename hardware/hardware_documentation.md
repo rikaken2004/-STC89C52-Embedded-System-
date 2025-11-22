@@ -4,6 +4,7 @@
 下图显示了单片机的完整引脚分配：
 
 ![引脚分配表]![pin_assignment](https://github.com/user-attachments/assets/aaacc5ce-9ffa-4b83-907d-bce6637adf7d)
+注意数码管2位选0.2-0.3，图片写错了。
 
 
 **主要连接：**
